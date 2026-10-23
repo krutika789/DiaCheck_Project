@@ -1,0 +1,5 @@
+.venv/\n__pycache__/\n*.pyc\ndata/*.csv\nmodels/*.joblib\n.streamlit/\n
+.venv/
+__pycache__/
+*.pyc
+.env

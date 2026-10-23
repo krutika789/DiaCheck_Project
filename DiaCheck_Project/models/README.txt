@@ -1,0 +1,1 @@
+Run python train_model.py after placing the CSV in data/. The script saves the model and feature list here.
